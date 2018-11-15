@@ -1,0 +1,8 @@
+download and run mysql
+add to PATH
+mysqld --initialize
+mysqld --console
+
+mysql -u root -p (for viewing database)
+
+python server.py (start restful API server)
